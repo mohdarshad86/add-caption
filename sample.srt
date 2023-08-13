@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hello, this is a sample caption.
+
+2
+00:00:02,100 --> 00:00:04,000
+Caption text continues in the next line.
+
+3
+00:00:04,500 --> 00:00:06,000
+Final line of the sample caption.
